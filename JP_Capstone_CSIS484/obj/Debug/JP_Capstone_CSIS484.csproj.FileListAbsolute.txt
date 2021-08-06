@@ -1,0 +1,13 @@
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\bin\Debug\JP_Capstone_CSIS484.exe.config
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\bin\Debug\JP_Capstone_CSIS484.exe
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\bin\Debug\JP_Capstone_CSIS484.pdb
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.csprojAssemblyReference.cache
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.body.resources
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.debug_Window.resources
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.scan_Results.resources
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.Properties.Resources.resources
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.csproj.GenerateResource.cache
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.csproj.CoreCompileInputs.cache
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.exe
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.pdb
+C:\Users\Jdpense\source\repos\JP_Capstone_CSIS484\JP_Capstone_CSIS484\obj\Debug\JP_Capstone_CSIS484.ErrorMsg_Body.resources

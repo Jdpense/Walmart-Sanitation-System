@@ -1,0 +1,12 @@
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\bin\Debug\Capstone Phase 1.exe.config
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\bin\Debug\Capstone Phase 1.exe
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\bin\Debug\Capstone Phase 1.pdb
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone Phase 2.csprojAssemblyReference.cache
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone_Phase_1.body.resources
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone_Phase_1.debug_Window.resources
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone_Phase_1.scan_Results.resources
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone_Phase_1.Properties.Resources.resources
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone Phase 2.csproj.GenerateResource.cache
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone Phase 2.csproj.CoreCompileInputs.cache
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone Phase 1.exe
+C:\Users\Jdpense\source\repos\Capstone Phase 1\Capstone Phase 1\obj\Debug\Capstone Phase 1.pdb
